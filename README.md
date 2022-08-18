@@ -1,4 +1,4 @@
-# g-ciudades :cityscape: :station:
+# :metro: g-ciudades :cityscape: 
 Este repositorio condensa los 4 módulos dictados en el marco de la diplomatura en "Gestión de Ciudades" de la Escuela de Economía y Negocios de la Universidad de San Martín
 
 
